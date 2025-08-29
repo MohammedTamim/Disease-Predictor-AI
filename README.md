@@ -1,7 +1,5 @@
 # Disease-Predictor-AI
 🧠 Disease Predictor AI is a machine learning project that predicts possible diseases based on user-input symptoms. Built with Python, Pandas, NumPy, and Scikit-learn, it compares models like Decision Tree, Random Forest, and Naive Bayes, providing accurate predictions and insights with visualizations.
-# 🧠 Disease Predictor AI
-
 A Machine Learning project that predicts possible diseases based on user-input symptoms.  
 Built using Python and scikit-learn, this project compares multiple models and provides insights into accuracy and performance.
 
